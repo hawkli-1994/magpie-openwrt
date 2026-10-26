@@ -1,0 +1,15 @@
+*.ipk
+*.apk
+bin/
+build_dir/
+staging_dir/
+tmp/
+.DS_Store
+*.o
+*.a
+magpie-cli-*
+.env
+**/caller-keys.json
+**/providers.json
+**/logins.json
+**/plugin-auth.json
