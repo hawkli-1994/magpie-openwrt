@@ -4,7 +4,7 @@ Thanks for helping make **magpie-openwrt** a solid OpenWrt packaging project for
 
 ## Scope
 
-In scope: packaging, procd, UCI, firewall/DNS hygiene, optional Tailscale/WireGuard integration docs, LuCI (later).
+In scope: packaging (OpenWrt `ipk`, Docker Compose, iStoreOS app), procd, UCI, key-level governance (gateway keys, usage/spend/budgets, revoke), firewall/DNS hygiene, optional Tailscale/WireGuard integration docs, LuCI (later).
 
 Out of scope: anti-ban / anti-detection / platform-evasion features or messaging.
 
